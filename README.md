@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Subin S V.
 
-Senior R&D Engineer | Android Developer | Flutter Developer @ [Grootan Techonologies](https://grootan.com)
+Senior R&D Engineer | Android Developer | Flutter Developer @ [Grootan Technologies](https://grootan.com)
 
 - 🔭 I’m currently working on some side projects on `Dart`, which most likely will be dropped for a new side project like my 100 other projects 😋
 - 🌱 I’m currently learning `Dart`, `Flutter` and everything nice.
