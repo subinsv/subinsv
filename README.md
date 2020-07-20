@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### I am Subin S V.
 
-Senior R&D Engineer | Android Developer | Flutter Developer 
+Senior R&D Engineer | Android Developer | Flutter Developer @ [Grootan Techonologies](https://grootan.com)
 
 - 🔭 I’m currently working on some side projects on `Dart`, which most likely will be dropped for a new side project like my 100 other projects 😋
 - 🌱 I’m currently learning `Dart`, `Flutter` and everything nice.
-- 📫 How to reach me: [Website](https://devsv.in/), [blog](https://blog.devsv.in), [Twitter](https://twitter.com/subin_sv)
+- 📫 How to reach me: [Website](https://devsv.in/), [Blog](https://blog.devsv.in), [Twitter](https://twitter.com/subin_sv)
 <!--
 **subinsv/subinsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
