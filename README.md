@@ -3,8 +3,8 @@
 
 Senior R&D Engineer | Flutter Developer @ [Grootan Technologies](https://grootan.com)
 
-- 🔭 I’m currently working on some side projects on `Dart`, which most likely will be dropped for a new side project like my 100 other projects 😋
-- 🌱 I’m currently learning `Dart`, `Flutter` and everything nice.
+- 🔭 I’m currently working on some side projects on `Flutter`, which most likely will be dropped for a new side project like my 100 other projects 😋
+- 🌱 I’m currently learning `Sveltekit`, `Flutter` and everything nice.
 - 📫 How to reach me: [Website](https://devsv.in/), [Blog](https://blog.devsv.in), [Twitter](https://twitter.com/subin_sv)
 <!--
 **subinsv/subinsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
