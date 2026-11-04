@@ -22,6 +22,11 @@ flowchart LR
 **Latest from the [blog](https://devsv.in/blog/):**
 
 <!-- BLOG-POST-LIST:START -->
+- [Jev vs LLMs, Thinking Fast and Slow](https://devsv.in/blog/jev_vs_llms/)
+- [Programmers Health Guide](https://devsv.in/blog/programmers_health_guide/)
+- [Part 3 [touch &amp; mkdir] - Know your commands](https://devsv.in/blog/know_your_commands_touch_mkdir/)
+- [Part 2 [echo &amp; ls] - Know your commands](https://devsv.in/blog/know_your_commands_ls_echo/)
+- [Part 1 [pwd &amp; cd] - Know your commands](https://devsv.in/blog/know_your_commands_pwd_cd/)
 <!-- BLOG-POST-LIST:END -->
 
 Find me at [devsv.in](https://devsv.in) · [LinkedIn](https://www.linkedin.com/in/subinsv/) · [X](https://twitter.com/subin_sv)
