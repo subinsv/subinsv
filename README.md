@@ -11,20 +11,16 @@ I turn chaos into systems. Every project starts as ten ideas, three deadlines an
 
 **How every new project starts:**
 
-```mermaid
-sequenceDiagram
-    participant You
-    participant Subin
-    participant Fast as Small model
-    participant Slow as Big LLM
-    You->>Subin: Ten ideas, three deadlines
-    Subin->>Subin: Turn the chaos into a system
-    Subin->>Fast: Quick checks, like 2 + 2
-    Fast-->>Subin: Instant and nearly free
-    Subin->>Slow: Only the hard ones, like 17 × 24
-    Slow-->>Subin: Slower, but worth it
-    Subin-->>You: Still works on a Friday evening
+```kotlin
+fun Engineer.onNewProject() {
+  sketchTheBoxes()
+  askWhatHappensWhenItFails()
+  writeTheDecisionDown()  // future me will ask why
+  buildTheSmallestThingThatWorks()
+  measureItBeforeCallingItDone()
+}
 ```
+
 
 **Latest from the [blog](https://devsv.in/blog/):**
 
