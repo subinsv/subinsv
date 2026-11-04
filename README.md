@@ -8,18 +8,20 @@ I turn chaos into systems. Every project starts as ten ideas, three deadlines an
 - **Ships:** mobile, desktop and web apps, mostly with `Flutter`
 - **Tools:** Claude Code · Langfuse · vLLM · Strands · AgentCore · AWS · Figma
 - **Side projects:** [One Page Calendar](https://opc.devsv.in), [ADB Wireless](https://play.google.com/store/apps/details?id=in.devsv.adbwireless), [QRead](https://play.google.com/store/apps/details?id=in.devsv.qread), [WF Minima](https://play.google.com/store/apps/details?id=in.devsv.minima) and about 100 others that will be dropped for the next shiny idea
-- **Latest post:** [Jev vs LLMs, Thinking Fast and Slow](https://devsv.in/blog/jev_vs_llms/)
 
 **How every new project starts:**
 
-```kotlin
-fun Engineer.onNewProject() {
-  sketchTheBoxes()
-  askWhatHappensWhenItFails()
-  writeTheDecisionDown()  // future me will ask why
-  buildTheSmallestThingThatWorks()
-  measureItBeforeCallingItDone()
-}
+```mermaid
+flowchart LR
+  A[Sketch the boxes] --> B[Ask what happens when it fails]
+  B --> C[Write the decision down]
+  C --> D[Build the smallest thing that works]
+  D --> E[Measure before calling it done]
 ```
 
-Find me at [devsv.in](https://devsv.in) · [Blog](https://devsv.in/blog/) · [LinkedIn](https://www.linkedin.com/in/subinsv/) · [X](https://twitter.com/subin_sv)
+**Latest from the [blog](https://devsv.in/blog/):**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Find me at [devsv.in](https://devsv.in) · [LinkedIn](https://www.linkedin.com/in/subinsv/) · [X](https://twitter.com/subin_sv)
