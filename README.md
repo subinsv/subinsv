@@ -1,22 +1,25 @@
-### Hi there 👋
-### I am Subin S V.
+### Hi there 👋 I'm Subin S V
 
-Senior R&D Engineer | Flutter Developer @ [Grootan Technologies](https://grootan.com)
+**Principal Architect @ [Grootan Technologies](https://grootan.com)** · Chennai, India
 
-- 🔭 I’m currently working on some side projects on `Flutter`, which most likely will be dropped for a new side project like my 100 other projects 😋
-- 🌱 I’m currently learning `Sveltekit`, `Flutter` and everything nice.
-- 📫 How to reach me: [Website](https://devsv.in/), [Blog](https://blog.devsv.in), [Twitter](https://twitter.com/subin_sv)
-<!--
-**subinsv/subinsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn chaos into systems. Every project starts as ten ideas, three deadlines and one whiteboard. My job is turning that into something that still works on a Friday evening. Lately, that something usually has AI inside.
 
-Here are some ideas to get you started:
+- **Now:** system design, AI agents, LLM evals and voice AI
+- **Ships:** mobile, desktop and web apps, mostly with `Flutter`
+- **Tools:** Claude Code · Langfuse · vLLM · Strands · AgentCore · AWS · Figma
+- **Side projects:** [One Page Calendar](https://opc.devsv.in), [ADB Wireless](https://play.google.com/store/apps/details?id=in.devsv.adbwireless), [QRead](https://play.google.com/store/apps/details?id=in.devsv.qread), [WF Minima](https://play.google.com/store/apps/details?id=in.devsv.minima) and about 100 others that will be dropped for the next shiny idea
+- **Latest post:** [Jev vs LLMs, Thinking Fast and Slow](https://devsv.in/blog/jev_vs_llms/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How every new project starts:**
+
+```kotlin
+fun Engineer.onNewProject() {
+  sketchTheBoxes()
+  askWhatHappensWhenItFails()
+  writeTheDecisionDown()  // future me will ask why
+  buildTheSmallestThingThatWorks()
+  measureItBeforeCallingItDone()
+}
+```
+
+Find me at [devsv.in](https://devsv.in) · [Blog](https://devsv.in/blog/) · [LinkedIn](https://www.linkedin.com/in/subinsv/) · [X](https://twitter.com/subin_sv)
