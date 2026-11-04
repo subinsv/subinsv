@@ -12,11 +12,18 @@ I turn chaos into systems. Every project starts as ten ideas, three deadlines an
 **How every new project starts:**
 
 ```mermaid
-flowchart LR
-  A[Sketch the boxes] --> B[Ask what happens when it fails]
-  B --> C[Write the decision down]
-  C --> D[Build the smallest thing that works]
-  D --> E[Measure before calling it done]
+sequenceDiagram
+    participant You
+    participant Subin
+    participant Fast as Small model
+    participant Slow as Big LLM
+    You->>Subin: Ten ideas, three deadlines
+    Subin->>Subin: Turn the chaos into a system
+    Subin->>Fast: Quick checks, like 2 + 2
+    Fast-->>Subin: Instant and nearly free
+    Subin->>Slow: Only the hard ones, like 17 × 24
+    Slow-->>Subin: Slower, but worth it
+    Subin-->>You: Still works on a Friday evening
 ```
 
 **Latest from the [blog](https://devsv.in/blog/):**
